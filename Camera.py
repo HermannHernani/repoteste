@@ -17,6 +17,8 @@
 import cv2
 from time import sleep
 
+teste = teste
+print teste
 
 class Camera:
     capture = None
