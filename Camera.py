@@ -19,6 +19,13 @@ from time import sleep
 
 teste = teste
 print teste
+print teste
+
+
+
+
+
+print teste
 
 class Camera:
     capture = None
